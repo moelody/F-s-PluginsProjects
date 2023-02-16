@@ -1,4 +1,4 @@
-#include "FsG.h"
+﻿#include "FsG.h"
 // ****************************************************************************************
 PF_Err To16WorldSub08(refconType refcon, A_long x, A_long y, PF_Pixel* inP, PF_Pixel16* outP)
 {

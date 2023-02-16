@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #ifndef AE_SDK_H
 #define AE_SDK_H
 

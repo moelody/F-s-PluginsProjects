@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 #include "../FsLibrary/Fs.h"
 #include "../FsLibrary/FsAE.h"
@@ -199,7 +199,7 @@ public:
 		PF_FpLong ret = 0;
 		A_long dx = d.p.x - s.p.x;
 		A_long dy = d.p.y - s.p.y;
-		//Šp“x‚ğ‹‚ß‚é
+		//å¦æ™å‚ªåª®å‚”å‚
 		PF_FpLong r = PF_ATAN2(dy ,dx);
 		if (r < 0) r = r + 2 * PF_PI;
 		r = r * 180 / PF_PI;

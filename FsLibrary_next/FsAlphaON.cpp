@@ -1,4 +1,4 @@
-
+﻿
 #include "FsG.h"
 
 PF_Err AlphaONSub08(refconType refcon, A_long x, A_long y, PF_Pixel* px)

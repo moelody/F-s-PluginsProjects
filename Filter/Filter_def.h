@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 
 
 PF_Boolean FLT_Enabled[PARAMSET_COUNT] = { FALSE,FALSE, FALSE, FALSE };

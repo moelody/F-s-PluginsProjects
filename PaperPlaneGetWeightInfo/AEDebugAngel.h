@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #ifndef AEDebugDisp_H
 #define AEDebugDisp_H
 

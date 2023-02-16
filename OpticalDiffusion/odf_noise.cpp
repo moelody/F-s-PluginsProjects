@@ -1,4 +1,4 @@
-#include "OpticalDiffusion.h"
+﻿#include "OpticalDiffusion.h"
 
 //-------------------------------------------------------------------------------------------------
 static PF_Err 

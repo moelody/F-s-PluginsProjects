@@ -1,4 +1,4 @@
-/* MainLineRepaint_Strings.h */
+﻿/* MainLineRepaint_Strings.h */
 
 #pragma once
 

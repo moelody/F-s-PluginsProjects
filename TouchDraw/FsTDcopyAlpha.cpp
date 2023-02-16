@@ -1,4 +1,4 @@
-#include "TouchDraw.h"
+﻿#include "TouchDraw.h"
 
 typedef struct {
 	PF_Pixel	color;

@@ -1,4 +1,4 @@
-#include "TouchDrawCenter.h"
+﻿#include "TouchDrawCenter.h"
 //--------------------------------------------------------------------------------
 inline PF_Pixel MixPx8(PF_Pixel s,PF_Pixel d)
 {

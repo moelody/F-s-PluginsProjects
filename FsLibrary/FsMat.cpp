@@ -1,4 +1,4 @@
-#include "FsGraphics.h"
+﻿#include "FsGraphics.h"
 
 //-------------------------------------------------------
 void CFsGraph::toBlackMat8()

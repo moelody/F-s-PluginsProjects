@@ -1,4 +1,4 @@
-#include "NamiGarasu.h"
+﻿#include "NamiGarasu.h"
 #include "DrawSqData.h"
 /*
 	0:5		

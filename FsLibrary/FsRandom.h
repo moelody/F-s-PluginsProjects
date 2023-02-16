@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #ifndef FS_RAND_TABLE_H
 #define FS_RAND_TABLE_H
 

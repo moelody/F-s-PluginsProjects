@@ -1,4 +1,4 @@
-#include "TouchDrawStraght.h"
+﻿#include "TouchDrawStraght.h"
 
 #define TARGET_CHNNEL	blue
 
